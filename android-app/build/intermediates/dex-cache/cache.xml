@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3ffdafb7eebce306d9bafb727c4291f840189756.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-14be25003de8d4844484300b1ac63abe7964556d.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/classes-4d564086a21a70e70f0322eb985c6e5cc00a3f3f.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/classes-0fdfd547c83088da739b9a6f56f6aa0fc461c61f.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1-b9879381123d783b50155356c0c7dab42c9ee4c5.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-7a4fbd4ab3cf8694484856e98f016eb4b6bfdfca.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-0fa664ce19ac43e0597b9f6356de34158c07c594.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1-145612acc4b1dffe2a1aeaf8fbca0f0572d2c21a.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-72b63e1b248faa993cfcad8bde9a38740099e6c4.jar" />
+    </item>
+    <item
+        jar="/Users/mohamed/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/mohamed/AndroidStudioProjects/MHacks/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-b57c57daf2e32c430f57ad50f7ec60f876b8903d.jar" />
+    </item>
+
+</items>
